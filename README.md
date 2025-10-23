@@ -1,7 +1,5 @@
 # Figmify: From Wireframe to Prototype
 
-# Figmify — From Wireframe to Prototype
-
 **Repository:** `wireframing`  
 **Project summary:**  
 This project teaches the wireframing process from low-fidelity sketches to high-fidelity interactive prototypes using Figma. It explains key wireframe elements, compares wireframe types, highlights Figma’s strengths, and presents a real-world example showing how wireframing prevented usability issues before development.
