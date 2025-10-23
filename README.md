@@ -118,54 +118,9 @@ Below are the core elements you should include in any wireframe, with short expl
 **Conclusion:** Wireframing detected a usability problem early and allowed inexpensive fixes that improved the final product’s success.
 
 ---
-
-## How to include your Figma prototype and assets
-1. **Create and share a Figma prototype:** In Figma, click **Share** → set to **Anyone with link → Can view** → copy the URL.  
-2. **Add the prototype link to this README:** Replace the placeholder below with your URL:
-   ```
-   Figma prototype: https://www.figma.com/file/your-file-id
-   ```
-3. **Export images/screens:** In Figma, select a frame → Export → PNG or JPG (for screenshots) or SVG (for icons).  
-4. **Upload assets to repo:** Place exported files in the `figma/` or `assets/` folder and commit them. Use either the GitHub web UI or local Git.  
-5. **Annotate screenshots:** For each exported frame, add a one-sentence caption describing the screen and any key interaction notes.
-
----
-
-## Submission & Manual Review Checklist
-Ensure these required items are present before you request a manual review:
-
-- [ ] Repository named **`wireframing`** (public).
-       
-- [ ] `README.md` (this file) with all sections completed.
-       
-- [ ] Figma prototype link included and set to **viewable** by anyone with the link.
-       
-- [ ] `figma/` folder in repo with exported screenshots for Lo-fi and Hi-fi screens.
-        
-- [ ] `assets/` folder with icons and exported images (SVG or PNG).
-        
-- [ ] `docs/case-study.md` (optional but recommended) with a short write-up of your usability findings.
-       
-- [ ] Short notes/annotations next to key screenshots explaining your decisions.
-       
-- [ ] Commit history showing work (branches and PRs are good practice but optional).
-
-**How to generate the review link (course platform):**  
-- Follow your course/platform instructions to generate a review link. If the platform requires a GitHub repo link, paste `https://github.com/<your-username>/wireframing`. If it requests the Figma prototype, include the shared URL.
-
----
-
 ## Author & Date
 **Author:** Blessing Mudarikwa 
 **Date:** 2025-10-23
-
----
-
-### Quick next steps (copy/paste actions)
-1. Create repo named `wireframing` on GitHub and add this `README.md`.  
-2. Create `figma/` and `assets/` folders. Upload exported frames and icons.  
-3. Paste your live Figma prototype link under the “How to include your Figma prototype and assets” section.  
-4. Run through the Submission checklist and then generate your course review link.
 
 
 
