@@ -10,6 +10,11 @@ figmify-wireframe-prototype/
 └── .github/
     └── ISSUE_TEMPLATE.md   # optional: template for reviewers
 
+    git add README.md
+git commit -m "chore: add project README"
+git push origin main
+
+
 
 
 
