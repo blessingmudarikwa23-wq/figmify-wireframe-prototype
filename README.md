@@ -22,7 +22,21 @@ Through this project, I:
 Below is how I organized my files and folders for this project.  
 This structure helps me keep all my designs, notes, and documentation well-arranged.
 
-.
+.---
+figmify-wireframe-prototype/
+
+├── figma/ # Screenshots, exported PNGs of Figma frames, or .fig files
+
+├── assets/ # Exported icons or design images (png, svg)
+
+├── docs/ # Written notes, usability analysis, and reflections
+
+├── examples/ # Before/after screenshots or annotated wireframes
+
+├── README.md # Main project documentation (this file)
+
+└── .github/ # Optional folder for templates or reviewer notes
+
 
 
 
