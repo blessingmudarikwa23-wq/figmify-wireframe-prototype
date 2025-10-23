@@ -1,26 +1,28 @@
 # Figmify: From Wireframe to Prototype
 
-This project demonstrates the process of transforming **low-fidelity wireframes** into **high-fidelity Figma prototypes**.  
-It highlights how wireframing improves user experience, communication, and design efficiency before development begins.
+This project showcases my practical understanding of transforming **low-fidelity wireframes** into **high-fidelity Figma prototypes**.  
+It reflects how I apply wireframing techniques to enhance user experience, improve collaboration, and ensure efficient design before development starts.
 
 ---
 
-## 🎯 Project Overview
-The goal of this project is to help learners understand how to move from basic design ideas to structured, interactive prototypes using **Figma**.  
-Through this, developers learn how to:
-- Visualize design concepts early.
-- Identify usability challenges.
-- Improve collaboration between designers and developers.
-- Create intuitive and functional UI layouts before coding begins.
+## 🎯 Project Purpose
+
+The main purpose of this project is to demonstrate my ability to move from early design concepts to fully structured, interactive prototypes using **Figma**.  
+Through this project, I:
+
+- Designed and refined interface layouts.
+- Identified usability issues early through wireframing.
+- Practiced how to communicate design intent clearly before coding.
+- Improved my understanding of user-centered design and documentation.
 
 ---
 
 ## 🧩 Project Structure
 
-## 🧩 Project Structure
+Below is how I organized my files and folders for this project.  
+This structure helps me keep all my designs, notes, and documentation well-arranged.
 
-Below is the recommended folder structure for this project.  
-It helps you organize your Figma files, documentation, and images clearly.
+.
 
 
 
