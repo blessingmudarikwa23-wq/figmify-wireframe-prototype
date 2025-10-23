@@ -17,6 +17,11 @@ Through this, developers learn how to:
 
 ## 🧩 Project Structure
 
+## 🧩 Project Structure
+
+Below is the recommended folder structure for this project.  
+It helps you organize your Figma files, documentation, and images clearly.
+
 
 
 
