@@ -14,7 +14,6 @@ This project teaches the wireframing process from low-fidelity sketches to high-
 - [Benefits of Wireframing in Software Development](#benefits-of-wireframing-in-software-development)
 - [Wireframing in Practice — Real-World Scenario](#wireframing-in-practice---real-world-scenario)
 - [How to include your Figma prototype and assets](#how-to-include-your-figma-prototype-and-assets)
-- [Submission & Manual Review Checklist](#submission--manual-review-checklist)
 - [Author & Date](#author--date)
 
 ---
