@@ -88,7 +88,17 @@ git commit -m "final personalized README update"
 
 # Push your updates to GitHub
 git push origin main
+---
+👩🏽‍💻 Author
 
+Blessing Mudarikwa
+Software Engineering Student | UI/UX Design Enthusiast
+🔗 GitHub Profile
+
+🧠 Final Reflection
+
+This project gave me hands-on experience in bridging the gap between design and development.
+It taught me how to use Figma not just for visuals, but as a tool for problem-solving and communication in real software projects.
 
 
 
