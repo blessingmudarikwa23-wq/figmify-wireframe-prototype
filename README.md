@@ -3,9 +3,4 @@ This project demonstrates the process of transforming low-fidelity wireframes in
 # change directory to where you want the project
 cd ~/projects
 
-# clone your repository (replace URL)
-git clone https://github.com/your-username/figmify-wireframe-prototype.git
-cd figmify-wireframe-prototype
 
-# create a branch to work on
-git checkout -b feature/initial-setup
