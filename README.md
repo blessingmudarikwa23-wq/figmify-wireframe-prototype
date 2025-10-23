@@ -37,7 +37,57 @@ figmify-wireframe-prototype/
 
 └── .github/ # Optional folder for templates or reviewer notes
 
+---
 
+---
+
+## 🪄 What I Learned
+
+Working on this project helped me to:
+1. Understand how **wireframes** shape the foundation of good UI/UX design.  
+2. Recognize the difference between **low-fidelity** and **high-fidelity** wireframes.  
+3. Use **Figma** effectively for building realistic prototypes.  
+4. Organize project documentation and images neatly using **GitHub**.  
+5. See how visual planning can make the software development process smoother and more efficient.
+
+---
+
+## 🛠 Tools and Technologies Used
+- **Figma** – for designing wireframes and prototypes  
+- **GitHub** – for version control and project management  
+- **Markdown (README.md)** – for writing structured documentation  
+
+---
+
+## 📸 My Workflow
+
+Here’s how I approached the project:
+1. Started by sketching out low-fidelity wireframes (basic layout ideas).  
+2. Used **Figma** to build the high-fidelity wireframes.  
+3. Exported PNGs or `.fig` files to my folders.  
+4. Wrote down usability notes and design reflections in the `docs/` folder.  
+5. Uploaded everything to GitHub for review and feedback.
+
+---
+
+## 💡 Key Insight
+
+I learned that **wireframing is one of the most powerful tools in UI/UX design**.  
+It helps save time, improve communication, and prevent major usability problems later in development.
+
+---
+
+## 🧾 Git Commands I Used
+
+```bash
+# Add your changes
+git add README.md
+
+# Commit your changes
+git commit -m "final personalized README update"
+
+# Push your updates to GitHub
+git push origin main
 
 
 
