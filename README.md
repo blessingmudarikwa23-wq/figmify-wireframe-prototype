@@ -119,7 +119,6 @@ Below are the core elements you should include in any wireframe, with short expl
 ---
 ## Author & Date
 **Author:** Blessing Mudarikwa
----
 **Date:** 2025-10-23
 
 
